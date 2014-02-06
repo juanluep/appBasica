@@ -1,0 +1,15 @@
+root{display:block}
+#contieneNoticias li:active h1{color:#000;font-weight:700}
+#portaMapas{height:25em;width:100%}
+#infoMapa{border:1px #c58be2 solid;margin:10px;padding:10px}
+.etiqueta{font-size:1.2em;font-weight:700}
+#tituloQuienesSomos{width:100%;font-size:2em;text-align:center;font-weight:700}
+#contenidoQuienesSomos{padding:20px}
+#produccion{margin-bottom:20px}
+#fTexto{width:100%;height:100px}
+.portaIcono{display:block;width:100%;text-align:center;margin-top:2em;margin-bottom:1em}
+.app{font-family:arial, helvetica, sans-serif;font-size:2em;font-weight:700;text-align:center}
+.info{font-family:arial, helvetica, sans-serif;font-size:1em;text-align:center;color:#000}
+.web{font-family:arial, helvetica, sans-serif;font-size:1.3em;font-weight:700;text-align:center;margin-top:1em;color:#1B75BA}
+#contieneNoticias h1,.info .acercaDeItem{font-weight:700}
+#portaNoticia,#fEmail{width:100%}
